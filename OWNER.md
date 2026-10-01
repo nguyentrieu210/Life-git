@@ -3,7 +3,7 @@
 ## Thông tin cơ bản
 
 - **Họ và tên:** Nguyễn Trọng Triệu
-- **Ngày sinh:** 12/03/1994
+- **Ngày sinh:** 12/03/1993
 - **Định hướng:** Quản lý vận hành • Tổ chức sản xuất • Kế hoạch/KPI • Quản lý Farm
 - **Chuyên môn nền tảng:** Kỹ sư Quản lý tài nguyên rừng
 - **Học vấn:** Đại học Lâm nghiệp Hà Nội, Kỹ sư Quản lý tài nguyên rừng (2012–2016)
