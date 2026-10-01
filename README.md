@@ -31,3 +31,15 @@ Nó là **version control cho lịch sử công việc và sự nghiệp**.
 Git lưu code history.
 
 Life Git lưu life/career history.
+
+
+## Hồ sơ cá nhân
+
+Repo đã mở rộng từ nhật ký nghề nghiệp thành hồ sơ vận hành cá nhân:
+
+- [Hồ sơ con người & cách làm việc](docs/self-profile.md)
+- [Hồ sơ nghề nghiệp](docs/career-profile.md)
+- [Hệ điều hành cá nhân](docs/operating-system.md)
+- [Dòng thời gian & bài học](docs/timeline.md)
+
+Các tài liệu phân biệt giữa sự kiện được ghi nhận và nhận định cần tiếp tục kiểm chứng.
